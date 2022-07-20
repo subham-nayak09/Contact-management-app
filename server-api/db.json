@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "67f94d46-d559-4ab6-a2bd-bee9ee929a42",
+      "name": "irfan Malik",
+      "email": "malik@gmail.com"
+    },
+    {
+      "id": "326f5773-a500-421f-8f38-bb013484f1cf",
+      "name": "xi jingping",
+      "email": "chinaman@gmail.com"
+    },
+    {
+      "id": "cf89d1a2-91ec-4794-97cd-861b3e10a9d9",
+      "name": "Elon Musk",
+      "email": "admin@gmail.com"
+    },
+    {
+      "id": "f0ffde19-273b-42f6-974f-17a48fa6146c",
+      "name": "Matt Hardy",
+      "email": "shivanshu@123"
+    },
+    {
+      "id": "b5c4782e-448e-406c-a491-e570cbfaa45d",
+      "name": "Donald Trump",
+      "email": "donald1@gmail.com"
+    },
+    {
+      "id": "2de456d7-734c-4bcc-9d91-b7cb288c5507",
+      "name": "Bill Gates",
+      "email": "gates@gmail.com"
+    }
+  ]
+}
